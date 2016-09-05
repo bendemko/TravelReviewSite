@@ -1,12 +1,16 @@
-﻿body {
+﻿
+/*Set padding and background color*/
+body {
     padding-top: 50px;
     padding-bottom: 20px;
-}
+    background-color:ivory;
+    }
 
 /* Set padding to keep content from hitting the edges */
 .body-content {
     padding-left: 15px;
     padding-right: 15px;
+    
 }
 
 /* Override the default bootstrap behavior where horizontal description lists 
@@ -22,3 +26,34 @@ select,
 textarea {
     max-width: 280px;
 }
+
+/*Set jumbotron image*/
+.jumbotron {
+    position: relative;
+    background-image: url('../Images/240_F_71556752_CTpuqBvFugGsHIdsTWpyxl5xdRX8vHEy.jpg');
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+/*Set font in jumbotron to white*/
+.lead{
+    color:white;
+}
+
+/*Set borders around row sections on main page*/
+.first{
+    border:groove;
+}
+
+.second{
+    border:groove;
+}
+
+.third{
+    border:groove
+}
+
+
+

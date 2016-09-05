@@ -184,6 +184,11 @@
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
+    <Content Include="Images\240_F_71556752_CTpuqBvFugGsHIdsTWpyxl5xdRX8vHEy.jpg" />
+    <Content Include="Images\Dubrovnik-Panorama-Croatia.jpg" />
+    <Content Include="Images\europebackpacking4-1024x682.jpg" />
+    <Content Include="Images\greek-3_3192445a-large.jpg" />
+    <Content Include="Images\llubljana-slovenia.jpg" />
     <Content Include="Scripts\ai.0.22.19-build00125.js" />
     <Content Include="Scripts\ai.0.22.19-build00125.min.js" />
     <Content Include="ApplicationInsights.config">
